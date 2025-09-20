@@ -44,4 +44,3 @@ This project simulates a mobile cellular network, modeling essential components 
     python main.py
     ```
 
-## Project Structure
